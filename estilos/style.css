@@ -10,7 +10,7 @@ body {
 
 main {
     background-color: rgb(192, 183, 183);
-    width: 500px;
+    width: 72%;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(243, 242, 242, 0.473);
@@ -42,5 +42,5 @@ a:hover {
 }
 
 video {
-    margin: 80%;
+    margin: auto;
 }
